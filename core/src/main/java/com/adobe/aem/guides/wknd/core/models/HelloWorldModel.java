@@ -70,7 +70,7 @@ public class HelloWorldModel {
             + "Current page is:  " + currentPagePath + "\n";
     }
 
-    public String getTitle(){
+    public String getTitle() {
         return StringUtils.isNotBlank(title) ? title : "Default Title";
     }
 

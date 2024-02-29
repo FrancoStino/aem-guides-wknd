@@ -3,10 +3,12 @@
 // but on dedicated CSS selectors to identify all elements
 .cmp-helloworld {}
 .cmp-helloworld__title {
-    color: red;
+    color: green;
     font-size: 50px;
 }
-.cmp-helloworld__item {}
+.cmp-helloworld__item {
+    color: green;
+}
 .cmp-helloworld__item-label {
     margin-bottom: 0;
 }
