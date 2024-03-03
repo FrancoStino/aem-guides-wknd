@@ -107,3 +107,4 @@ ui.tests/test-module/assets/form/themes/**/*current.png
 ### Visual Studio ###
 .vscode
 .history
+/ui.frontend/package-lock.json
